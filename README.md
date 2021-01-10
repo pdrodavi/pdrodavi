@@ -1,12 +1,3 @@
----
-title: Pedro Davi
-date: "2021-01-10"
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: "pdrodavi"
----
-
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://www.pedrodavi.com.br/">Pedro Davi.</a></strong>
 </h1>
 
