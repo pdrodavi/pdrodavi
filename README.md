@@ -31,29 +31,10 @@ I try to contribute to this world with my codes, my ideas and visions. I seek to
 
 <div align=center>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=radical)](https://github.com/pdrodavi/faculdade)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=cobalt)](https://github.com/pdrodavi/faculdade)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=great-gatsby)](https://github.com/pdrodavi/faculdade)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=blue-green)](https://github.com/pdrodavi/faculdade)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=prussian)](https://github.com/pdrodavi/faculdade)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=tokyonight)](https://github.com/pedrodavi/faculdade)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=vue-dark)](https://github.com/pdrodavi/faculdade)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=chartreuse-dark)](https://github.com/pdrodavi/faculdade)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=material-palenight)](https://github.com/pdrodavi/faculdade)
+
 
 </div>
 
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=dates-api&theme=radical)](https://github.com/pdrodavi/dates-api)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=faculdade&theme=radical)](https://github.com/pdrodavi/faculdade)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=swapi-flask-py&theme=radical)](https://github.com/pdrodavi/swapi-flask-py)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pdrodavi&repo=jobsApp-Node-Adonis-Framework&theme=radical)](https://github.com/pdrodavi/jobsApp-Node-Adonis-Framework)
-
-</div>
 
 <br>
 
