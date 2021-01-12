@@ -27,14 +27,6 @@ I try to contribute to this world with my codes, my ideas and visions. I seek to
 <p align="justify">
 <b>I have a BA in Computer Science.</b> I work in the technology area as a Senior Analyst at <b>Accenture Brazil</b>. The challenges and complexities of life fascinate me to the point of always keeping me motivated in search of discovering something new. <em>"Knowing a lot does not make you intelligent. Intelligence translates into the way you collect, judge, handle and, above all, where and how you apply this information."</em> - Carl Sagan 🚀</p>
 
-<br>
-
-<div align=center>
-
-
-
-</div>
-
 
 <br>
 
