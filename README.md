@@ -25,6 +25,6 @@ I try to contribute to this world with my codes, my ideas and visions. I seek to
 <br>
 
 <p align="justify">
-<b>I have a BA in Computer Science.</b> I work in the technology area as a Application Development Specialist at <b>Accenture Brazil</b>. The challenges and complexities of life fascinate me to the point of always keeping me motivated in search of discovering something new. <em>"Knowing a lot does not make you intelligent. Intelligence translates into the way you collect, judge, handle and, above all, where and how you apply this information."</em> - Carl Sagan 🚀</p>
+<b>I have a BA in Computer Science.</b> I work in the technology area as a Custom Software Engineering Specialist at <b>Accenture Brazil</b>. The challenges and complexities of life fascinate me to the point of always keeping me motivated in search of discovering something new. <em>"Knowing a lot does not make you intelligent. Intelligence translates into the way you collect, judge, handle and, above all, where and how you apply this information."</em> - Carl Sagan 🚀</p>
 
 <h3 align="center"><a href="https://github.com/pdrodavi?tab=repositories">My complete repository!</a></h3>
